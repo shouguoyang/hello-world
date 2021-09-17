@@ -2,23 +2,24 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: <a href="http://www.iie.ac.cn/">Institute of Information Engineering</a>. &nbsp yangshouguo@iie.ac.cn.
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Haidian district, Beijing, China</p>
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Ph.D. student from Beijing Key Laboratory of Internet of Things Security, Institute of Information Engineering ([IIE](http://www.iie.ac.cn/)), Chinese Academy of Sciences ([CAS](https://english.cas.cn/)) under the supervision of Prof. [Zhiqiang Shi](http://people.ucas.ac.cn/~0003476), since September 2017.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My current research interests focus on binary code similarity detection (i.e. function matching), patch detection, and vulnerability detection based on static analysis.
+I am also interested in symbolic execution for program analysis.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+From August 2021, I started my one-year research assistant in cyber security lab at [NTU](https://www.ntu.edu.sg).
+
+I received my Bachelor Degree in [College of Computer Science and Engineering](http://cise.sdust.edu.cn/), Shandong University of Science and Technology in June, 2017.
