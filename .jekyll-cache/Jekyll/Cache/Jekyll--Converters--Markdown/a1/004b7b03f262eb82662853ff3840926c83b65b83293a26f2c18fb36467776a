@@ -1,11 +1,11 @@
-I"n<p>This is an example post with image galleries.</p>
+I"Y<p>This is an example post with image galleries.</p>
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="/al-folio/assets/img/9.jpg" />
+        <img class="img-fluid rounded z-depth-1" src="/_site/assets/img/9.jpg" />
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="/al-folio/assets/img/7.jpg" />
+        <img class="img-fluid rounded z-depth-1" src="/_site/assets/img/7.jpg" />
     </div>
 </div>
 <div class="caption">
@@ -17,10 +17,10 @@ Simply add <code class="language-plaintext highlighter-rouge">data-zoomable</cod
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="/al-folio/assets/img/8.jpg" data-zoomable="" />
+        <img class="img-fluid rounded z-depth-1" src="/_site/assets/img/8.jpg" data-zoomable="" />
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="/al-folio/assets/img/10.jpg" data-zoomable="" />
+        <img class="img-fluid rounded z-depth-1" src="/_site/assets/img/10.jpg" data-zoomable="" />
     </div>
 </div>
 
@@ -28,13 +28,13 @@ Simply add <code class="language-plaintext highlighter-rouge">data-zoomable</cod
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="/al-folio/assets/img/11.jpg" data-zoomable="" />
+        <img class="img-fluid rounded z-depth-1" src="/_site/assets/img/11.jpg" data-zoomable="" />
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="/al-folio/assets/img/12.jpg" data-zoomable="" />
+        <img class="img-fluid rounded z-depth-1" src="/_site/assets/img/12.jpg" data-zoomable="" />
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="/al-folio/assets/img/7.jpg" data-zoomable="" />
+        <img class="img-fluid rounded z-depth-1" src="/_site/assets/img/7.jpg" data-zoomable="" />
     </div>
 </div>
 :ET

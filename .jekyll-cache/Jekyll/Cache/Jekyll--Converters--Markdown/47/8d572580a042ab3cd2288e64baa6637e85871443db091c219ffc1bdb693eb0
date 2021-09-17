@@ -1,4 +1,5 @@
-I"&<div class="publications">
+I"
+&<div class="publications">
 
 
   <h2 class="year">1956</h2>
@@ -254,7 +255,7 @@
     
     
       
-      <a href="/al-folio/assets/pdf/example_pdf.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank">PDF</a>
+      <a href="/_site/assets/pdf/example_pdf.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank">PDF</a>
       
     
     
